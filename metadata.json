@@ -1,0 +1,273 @@
+{
+    "0": {
+      "name": "GenkiEgg #0",
+      "personality": "Excited",
+      "image": "ipfs",
+      "video": "ipfs"
+    },
+    "1": { "name": "GenkiEgg #1", 
+    "personality": "Savvy",
+     "image": "ipfs",
+    "video": "ipfs" },
+
+    "2": {
+      "name": "GenkiEgg #2",
+      "personality": "Excited",
+      "image": "ipfs"
+    },
+    "3": {
+        "name": "GenkiEgg #3", 
+        "personality": "Calm",
+      "image": "ipfs"
+    },
+    "4": {
+        "name": "GenkiEgg #4", 
+        "personality": "Energetic",
+      "image": "ipfs"
+    },
+    "5": {
+        "name": "GenkiEgg #5", 
+        "personality": "Calm",
+      "image": "ipfs"
+    },
+    "6": {
+        "name": "GenkiEgg #6", 
+        "personality": "Energetic",
+      "image": "ipfs"
+    },
+    "7": {
+        "name": "GenkiEgg #7", 
+        "personality": "Calm",
+      "image": "ipfs"
+    },
+    "8": { "name": "GenkiEgg #8", 
+    "personality": "Savvy", "image": "ipfs" },
+
+    "9": { "name": "GenkiEgg #9", 
+    "personality": "Reserved", "image": "ipfs" },
+
+    "10": { "name": "GenkiEgg #10", 
+    "personality": "Savvy", "image": "ipfs" },
+    "11": {
+        "name": "GenkiEgg #11", 
+        "personality": "Calm",
+      "image": "ipfs"
+    },
+    "12": {
+        "name": "GenkiEgg #12", 
+        "personality": "Reserved",
+      "image": "ipfs"
+    },
+    "13": { "name": "GenkiEgg #13", 
+    "personality": "Reserved", "image": "ipfs" },
+    "14": {
+        "name": "GenkiEgg #14", 
+        "personality": "Reserved",
+      "image": "ipfs"
+    },
+    "15": { "name": "GenkiEgg #15", 
+    "personality": "Calm", "image": "ipfs" },
+    "16": {
+        "name": "GenkiEgg #16", 
+        "personality": "Energetic",
+      "image": "ipfs"
+    },
+    "17": {
+        "name": "GenkiEgg #17", 
+        "personality": "Calm",
+      "image": "ipfs"
+    },
+    "18": {
+        "name": "GenkiEgg #18", 
+        "personality": "Energetic",
+      "image": "ipfs"
+    },
+    "19": {
+        "name": "GenkiEgg #19", 
+        "personality": "Energetic",
+      "image": "ipfs"
+    },
+    "20": { "name": "GenkiEgg #20", 
+    "personality": "Calm", "image": "ipfs" },
+    "21": {
+        "name": "GenkiEgg #21", 
+        "personality": "Reserved",
+      "image": "ipfs"
+    },
+    "22": {
+        "name": "GenkiEgg #22", 
+        "personality": "Calm",
+      "image": "ipfs"
+    },
+    "23": {
+        "name": "GenkiEgg #23", 
+        "personality": "Reserved",
+      "image": "ipfs"
+    },
+    "24": {
+        "name": "GenkiEgg #24", 
+        "personality": "Energetic",
+      "image": "ipfs"
+    },
+    "25": {
+        "name": "GenkiEgg #25", 
+        "personality": "Reserved",
+      "image": "ipfs"
+    },
+    "26": { "name": "GenkiEgg #26", 
+    "personality": "Calm", "image": "ipfs" },
+    "27": {
+        "name": "GenkiEgg #27", 
+        "personality": "Reserved",
+      "image": "ipfs"
+    },
+    "28": { "name": "GenkiEgg #28", 
+    "personality": "Calm", "image": "ipfs" },
+    "29": {
+        "name": "GenkiEgg #29", 
+        "personality": "Reserved",
+      "image": "ipfs"
+    },
+    "30": {
+        "name": "GenkiEgg #30", 
+        "personality": "Calm",
+      "image": "ipfs"
+    },
+    "31": {
+        "name": "GenkiEgg #31", 
+        "personality": "Calm",
+      "image": "ipfs"
+    },
+    "32": {
+        "name": "GenkiEgg #32", 
+        "personality": "Reserved",
+      "image": "ipfs"
+    },
+    "33": {
+        "name": "GenkiEgg #33", 
+        "personality": "Energetic",
+      "image": "ipfs"
+    },
+    "34": {
+        "name": "GenkiEgg #34", 
+        "personality": "Reserved",
+      "image": "ipfs"
+    },
+    "35": {
+        "name": "GenkiEgg #35", 
+        "personality": "Reserved",
+      "image": "ipfs"
+    },
+    "36": {
+        "name": "GenkiEgg #36", 
+        "personality": "Calm",
+      "image": "ipfs"
+    },
+    "37": {
+        "name": "GenkiEgg #37", 
+        "personality": "Savvy",
+      "image": "ipfs"
+    },
+    "38": { "name": "GenkiEgg #38", 
+    "personality": "Reserved",
+     "image": "ipfs" },
+    "39": {
+        "name": "GenkiEgg #39", 
+        "personality": "Savvy",
+      "image": "ipfs"
+    },
+    "40": {
+        "name": "GenkiEgg #40", 
+        "personality": "Reserved",
+      "image": "ipfs"
+    },
+    "41": { "name": "GenkiEgg #41", 
+    "personality": "Calm","image": "ipfs" },
+    "42": {
+        "name": "GenkiEgg #42", 
+        "personality": "Calm",
+      "image": "ipfs"
+    },
+    "43": {
+        "name": "GenkiEgg #43", 
+        "personality": "Reserved",
+      "image": "ipfs"
+    },
+    "44": {
+        "name": "GenkiEgg #44", 
+        "personality": "Savvy",
+      "image": "ipfs"
+    },
+    "45": {
+        "name": "GenkiEgg #45", 
+        "personality": "Reserved",
+      "image": "ipfs"
+    },
+    "46": {
+        "name": "GenkiEgg #46", 
+        "personality": "Calm",
+      "image": "ipfs"
+    },
+    "47": {
+        "name": "GenkiEgg #47", 
+        "personality": "Savvy",
+      "image": "ipfs"
+    },
+    "48": { "name": "GenkiEgg #48", 
+    "personality": "Reserved","image": "ipfs" },
+    "49": {
+        "name": "GenkiEgg #49", 
+        "personality": "Calm",
+      "image": "ipfs"
+    },
+    "50": {
+        "name": "GenkiEgg #50", 
+        "personality": "Calm",
+      "image": "ipfs"
+    },
+    "51": {
+        "name": "GenkiEgg #51", 
+        "personality": "Reserved",
+      "image": "ipfs"
+    },
+    "52": {
+        "name": "GenkiEgg #52", 
+        "personality": "Energetic",
+      "image": "ipfs"
+    },
+    "53": { "name": "GenkiEgg #53", 
+    "personality": "Calm", "image": "ipfs" },
+    "54": {
+        "name": "GenkiEgg #54", 
+        "personality": "Savvy",
+      "image": "ipfs"
+    },
+    "55": {
+        "name": "GenkiEgg #55", 
+        "personality": "Reserved",
+      "image": "ipfs"
+    },
+    "56": { "name": "GenkiEgg #56", 
+    "personality": "Calm", "image": "ipfs" },
+    "57": {
+        "name": "GenkiEgg #57", 
+        "personality": "Reserved",
+      "image": "ipfs"
+    },
+    "58": {
+        "name": "GenkiEgg #58", 
+        "personality": "Calm",
+      "image": "ipfs"
+    },
+    "59": {
+        "name": "GenkiEgg #59", 
+        "personality": "Calm",
+      "image": "ipfs"
+    },
+    "60": {
+        "name": "GenkiEgg #60", 
+        "personality": "Calm",
+      "image": "ipfs"
+    }
+  }
+  

@@ -1,273 +1,2109 @@
-{
-    "0": {
-      "name": "GenkiEgg #0",
-      "personality": "Excited",
-      "image": "ipfs",
-      "video": "ipfs"
-    },
-    "1": { "name": "GenkiEgg #1", 
-    "personality": "Savvy",
-     "image": "ipfs",
-    "video": "ipfs" },
-
-    "2": {
-      "name": "GenkiEgg #2",
-      "personality": "Excited",
-      "image": "ipfs"
-    },
-    "3": {
-        "name": "GenkiEgg #3", 
-        "personality": "Calm",
-      "image": "ipfs"
-    },
-    "4": {
-        "name": "GenkiEgg #4", 
-        "personality": "Energetic",
-      "image": "ipfs"
-    },
-    "5": {
-        "name": "GenkiEgg #5", 
-        "personality": "Calm",
-      "image": "ipfs"
-    },
-    "6": {
-        "name": "GenkiEgg #6", 
-        "personality": "Energetic",
-      "image": "ipfs"
-    },
-    "7": {
-        "name": "GenkiEgg #7", 
-        "personality": "Calm",
-      "image": "ipfs"
-    },
-    "8": { "name": "GenkiEgg #8", 
-    "personality": "Savvy", "image": "ipfs" },
-
-    "9": { "name": "GenkiEgg #9", 
-    "personality": "Reserved", "image": "ipfs" },
-
-    "10": { "name": "GenkiEgg #10", 
-    "personality": "Savvy", "image": "ipfs" },
-    "11": {
-        "name": "GenkiEgg #11", 
-        "personality": "Calm",
-      "image": "ipfs"
-    },
-    "12": {
-        "name": "GenkiEgg #12", 
-        "personality": "Reserved",
-      "image": "ipfs"
-    },
-    "13": { "name": "GenkiEgg #13", 
-    "personality": "Reserved", "image": "ipfs" },
-    "14": {
-        "name": "GenkiEgg #14", 
-        "personality": "Reserved",
-      "image": "ipfs"
-    },
-    "15": { "name": "GenkiEgg #15", 
-    "personality": "Calm", "image": "ipfs" },
-    "16": {
-        "name": "GenkiEgg #16", 
-        "personality": "Energetic",
-      "image": "ipfs"
-    },
-    "17": {
-        "name": "GenkiEgg #17", 
-        "personality": "Calm",
-      "image": "ipfs"
-    },
-    "18": {
-        "name": "GenkiEgg #18", 
-        "personality": "Energetic",
-      "image": "ipfs"
-    },
-    "19": {
-        "name": "GenkiEgg #19", 
-        "personality": "Energetic",
-      "image": "ipfs"
-    },
-    "20": { "name": "GenkiEgg #20", 
-    "personality": "Calm", "image": "ipfs" },
-    "21": {
-        "name": "GenkiEgg #21", 
-        "personality": "Reserved",
-      "image": "ipfs"
-    },
-    "22": {
-        "name": "GenkiEgg #22", 
-        "personality": "Calm",
-      "image": "ipfs"
-    },
-    "23": {
-        "name": "GenkiEgg #23", 
-        "personality": "Reserved",
-      "image": "ipfs"
-    },
-    "24": {
-        "name": "GenkiEgg #24", 
-        "personality": "Energetic",
-      "image": "ipfs"
-    },
-    "25": {
-        "name": "GenkiEgg #25", 
-        "personality": "Reserved",
-      "image": "ipfs"
-    },
-    "26": { "name": "GenkiEgg #26", 
-    "personality": "Calm", "image": "ipfs" },
-    "27": {
-        "name": "GenkiEgg #27", 
-        "personality": "Reserved",
-      "image": "ipfs"
-    },
-    "28": { "name": "GenkiEgg #28", 
-    "personality": "Calm", "image": "ipfs" },
-    "29": {
-        "name": "GenkiEgg #29", 
-        "personality": "Reserved",
-      "image": "ipfs"
-    },
-    "30": {
-        "name": "GenkiEgg #30", 
-        "personality": "Calm",
-      "image": "ipfs"
-    },
-    "31": {
-        "name": "GenkiEgg #31", 
-        "personality": "Calm",
-      "image": "ipfs"
-    },
-    "32": {
-        "name": "GenkiEgg #32", 
-        "personality": "Reserved",
-      "image": "ipfs"
-    },
-    "33": {
-        "name": "GenkiEgg #33", 
-        "personality": "Energetic",
-      "image": "ipfs"
-    },
-    "34": {
-        "name": "GenkiEgg #34", 
-        "personality": "Reserved",
-      "image": "ipfs"
-    },
-    "35": {
-        "name": "GenkiEgg #35", 
-        "personality": "Reserved",
-      "image": "ipfs"
-    },
-    "36": {
-        "name": "GenkiEgg #36", 
-        "personality": "Calm",
-      "image": "ipfs"
-    },
-    "37": {
-        "name": "GenkiEgg #37", 
-        "personality": "Savvy",
-      "image": "ipfs"
-    },
-    "38": { "name": "GenkiEgg #38", 
-    "personality": "Reserved",
-     "image": "ipfs" },
-    "39": {
-        "name": "GenkiEgg #39", 
-        "personality": "Savvy",
-      "image": "ipfs"
-    },
-    "40": {
-        "name": "GenkiEgg #40", 
-        "personality": "Reserved",
-      "image": "ipfs"
-    },
-    "41": { "name": "GenkiEgg #41", 
-    "personality": "Calm","image": "ipfs" },
-    "42": {
-        "name": "GenkiEgg #42", 
-        "personality": "Calm",
-      "image": "ipfs"
-    },
-    "43": {
-        "name": "GenkiEgg #43", 
-        "personality": "Reserved",
-      "image": "ipfs"
-    },
-    "44": {
-        "name": "GenkiEgg #44", 
-        "personality": "Savvy",
-      "image": "ipfs"
-    },
-    "45": {
-        "name": "GenkiEgg #45", 
-        "personality": "Reserved",
-      "image": "ipfs"
-    },
-    "46": {
-        "name": "GenkiEgg #46", 
-        "personality": "Calm",
-      "image": "ipfs"
-    },
-    "47": {
-        "name": "GenkiEgg #47", 
-        "personality": "Savvy",
-      "image": "ipfs"
-    },
-    "48": { "name": "GenkiEgg #48", 
-    "personality": "Reserved","image": "ipfs" },
-    "49": {
-        "name": "GenkiEgg #49", 
-        "personality": "Calm",
-      "image": "ipfs"
-    },
-    "50": {
-        "name": "GenkiEgg #50", 
-        "personality": "Calm",
-      "image": "ipfs"
-    },
-    "51": {
-        "name": "GenkiEgg #51", 
-        "personality": "Reserved",
-      "image": "ipfs"
-    },
-    "52": {
-        "name": "GenkiEgg #52", 
-        "personality": "Energetic",
-      "image": "ipfs"
-    },
-    "53": { "name": "GenkiEgg #53", 
-    "personality": "Calm", "image": "ipfs" },
-    "54": {
-        "name": "GenkiEgg #54", 
-        "personality": "Savvy",
-      "image": "ipfs"
-    },
-    "55": {
-        "name": "GenkiEgg #55", 
-        "personality": "Reserved",
-      "image": "ipfs"
-    },
-    "56": { "name": "GenkiEgg #56", 
-    "personality": "Calm", "image": "ipfs" },
-    "57": {
-        "name": "GenkiEgg #57", 
-        "personality": "Reserved",
-      "image": "ipfs"
-    },
-    "58": {
-        "name": "GenkiEgg #58", 
-        "personality": "Calm",
-      "image": "ipfs"
-    },
-    "59": {
-        "name": "GenkiEgg #59", 
-        "personality": "Calm",
-      "image": "ipfs"
-    },
-    "60": {
-        "name": "GenkiEgg #60", 
-        "personality": "Calm",
-      "image": "ipfs"
-    }
+[
+  {
+    "name": "GenkiEgg #0",
+    "type": "Dragon-yellow egg",
+    "personality": "Savy",
+    "image": "0.gif",
+    "video": "0.mp4"
+  },
+  {
+    "name": "GenkiEgg #1",
+    "type": "Dragon-yellow egg",
+    "personality": "Excited",
+    "image": "1.gif",
+    "video": "1.mp4"
+  },
+  {
+    "name": "GenkiEgg #2",
+    "type": "Dragon-purple egg",
+    "personality": "Curious",
+    "image": "2.gif",
+    "video": "2.mp4"
+  },
+  {
+    "name": "GenkiEgg #3",
+    "type": "Dragon-yellow egg",
+    "personality": "Agressive",
+    "image": "3.gif",
+    "video": "3.mp4"
+  },
+  {
+    "name": "GenkiEgg #4",
+    "type": "Dragon-yellow egg",
+    "personality": "Savy",
+    "image": "4.gif",
+    "video": "4.mp4"
+  },
+  {
+    "name": "GenkiEgg #5",
+    "type": "Dragon-yellow egg",
+    "personality": "Excited",
+    "image": "5.gif",
+    "video": "5.mp4"
+  },
+  {
+    "name": "GenkiEgg #6",
+    "type": "Dragon-yellow egg",
+    "personality": "Agressive",
+    "image": "6.gif",
+    "video": "6.mp4"
+  },
+  {
+    "name": "GenkiEgg #7",
+    "type": "Dragon-purple egg",
+    "personality": "Curious",
+    "image": "7.gif",
+    "video": "7.mp4"
+  },
+  {
+    "name": "GenkiEgg #8",
+    "type": "Dragon-yellow egg",
+    "personality": "Calm",
+    "image": "8.gif",
+    "video": "8.mp4"
+  },
+  {
+    "name": "GenkiEgg #9",
+    "type": "Dragon-yellow egg",
+    "personality": "Curious",
+    "image": "9.gif",
+    "video": "9.mp4"
+  },
+  {
+    "name": "GenkiEgg #10",
+    "type": "Dragon-yellow egg",
+    "personality": "Calm",
+    "image": "10.gif",
+    "video": "10.mp4"
+  },
+  {
+    "name": "GenkiEgg #11",
+    "type": "Dragon-purple egg",
+    "personality": "Agressive",
+    "image": "11.gif",
+    "video": "11.mp4"
+  },
+  {
+    "name": "GenkiEgg #12",
+    "type": "Dragon-purple egg",
+    "personality": "Savy",
+    "image": "12.gif",
+    "video": "12.mp4"
+  },
+  {
+    "name": "GenkiEgg #13",
+    "type": "Dragon-purple egg",
+    "personality": "Calm",
+    "image": "13.gif",
+    "video": "13.mp4"
+  },
+  {
+    "name": "GenkiEgg #14",
+    "type": "Dragon-purple egg",
+    "personality": "Excited",
+    "image": "14.gif",
+    "video": "14.mp4"
+  },
+  {
+    "name": "GenkiEgg #15",
+    "type": "Dragon-yellow egg",
+    "personality": "Savy",
+    "image": "15.gif",
+    "video": "15.mp4"
+  },
+  {
+    "name": "GenkiEgg #16",
+    "type": "Dragon-yellow egg",
+    "personality": "Calm",
+    "image": "16.gif",
+    "video": "16.mp4"
+  },
+  {
+    "name": "GenkiEgg #17",
+    "type": "Dragon-purple egg",
+    "personality": "Calm",
+    "image": "17.gif",
+    "video": "17.mp4"
+  },
+  {
+    "name": "GenkiEgg #18",
+    "type": "Dragon-purple egg",
+    "personality": "Agressive",
+    "image": "18.gif",
+    "video": "18.mp4"
+  },
+  {
+    "name": "GenkiEgg #19",
+    "type": "Dragon-yellow egg",
+    "personality": "Curious",
+    "image": "19.gif",
+    "video": "19.mp4"
+  },
+  {
+    "name": "GenkiEgg #20",
+    "type": "Dragon-purple egg",
+    "personality": "Curious",
+    "image": "20.gif",
+    "video": "20.mp4"
+  },
+  {
+    "name": "GenkiEgg #21",
+    "type": "Dragon-purple egg",
+    "personality": "Excited",
+    "image": "21.gif",
+    "video": "21.mp4"
+  },
+  {
+    "name": "GenkiEgg #22",
+    "type": "Dragon-yellow egg",
+    "personality": "Calm",
+    "image": "22.gif",
+    "video": "22.mp4"
+  },
+  {
+    "name": "GenkiEgg #23",
+    "type": "Dragon-purple egg",
+    "personality": "Agressive",
+    "image": "23.gif",
+    "video": "23.mp4"
+  },
+  {
+    "name": "GenkiEgg #24",
+    "type": "Dragon-purple egg",
+    "personality": "Agressive",
+    "image": "24.gif",
+    "video": "24.mp4"
+  },
+  {
+    "name": "GenkiEgg #25",
+    "type": "Dragon-yellow egg",
+    "personality": "Excited",
+    "image": "25.gif",
+    "video": "25.mp4"
+  },
+  {
+    "name": "GenkiEgg #26",
+    "type": "Dragon-yellow egg",
+    "personality": "Agressive",
+    "image": "26.gif",
+    "video": "26.mp4"
+  },
+  {
+    "name": "GenkiEgg #27",
+    "type": "Dragon-purple egg",
+    "personality": "Calm",
+    "image": "27.gif",
+    "video": "27.mp4"
+  },
+  {
+    "name": "GenkiEgg #28",
+    "type": "Dragon-purple egg",
+    "personality": "Savy",
+    "image": "28.gif",
+    "video": "28.mp4"
+  },
+  {
+    "name": "GenkiEgg #29",
+    "type": "Dragon-purple egg",
+    "personality": "Agressive",
+    "image": "29.gif",
+    "video": "29.mp4"
+  },
+  {
+    "name": "GenkiEgg #30",
+    "type": "Dragon-purple egg",
+    "personality": "Agressive",
+    "image": "30.gif",
+    "video": "30.mp4"
+  },
+  {
+    "name": "GenkiEgg #31",
+    "type": "Dragon-purple egg",
+    "personality": "Savy",
+    "image": "31.gif",
+    "video": "31.mp4"
+  },
+  {
+    "name": "GenkiEgg #32",
+    "type": "Dragon-yellow egg",
+    "personality": "Agressive",
+    "image": "32.gif",
+    "video": "32.mp4"
+  },
+  {
+    "name": "GenkiEgg #33",
+    "type": "Dragon-yellow egg",
+    "personality": "Savy",
+    "image": "33.gif",
+    "video": "33.mp4"
+  },
+  {
+    "name": "GenkiEgg #34",
+    "type": "Dragon-yellow egg",
+    "personality": "Savy",
+    "image": "34.gif",
+    "video": "34.mp4"
+  },
+  {
+    "name": "GenkiEgg #35",
+    "type": "Dragon-purple egg",
+    "personality": "Excited",
+    "image": "35.gif",
+    "video": "35.mp4"
+  },
+  {
+    "name": "GenkiEgg #36",
+    "type": "Dragon-yellow egg",
+    "personality": "Calm",
+    "image": "36.gif",
+    "video": "36.mp4"
+  },
+  {
+    "name": "GenkiEgg #37",
+    "type": "Dragon-purple egg",
+    "personality": "Agressive",
+    "image": "37.gif",
+    "video": "37.mp4"
+  },
+  {
+    "name": "GenkiEgg #38",
+    "type": "Dragon-yellow egg",
+    "personality": "Calm",
+    "image": "38.gif",
+    "video": "38.mp4"
+  },
+  {
+    "name": "GenkiEgg #39",
+    "type": "Dragon-purple egg",
+    "personality": "Calm",
+    "image": "39.gif",
+    "video": "39.mp4"
+  },
+  {
+    "name": "GenkiEgg #40",
+    "type": "Dragon-yellow egg",
+    "personality": "Curious",
+    "image": "40.gif",
+    "video": "40.mp4"
+  },
+  {
+    "name": "GenkiEgg #41",
+    "type": "Dragon-yellow egg",
+    "personality": "Calm",
+    "image": "41.gif",
+    "video": "41.mp4"
+  },
+  {
+    "name": "GenkiEgg #42",
+    "type": "Dragon-purple egg",
+    "personality": "Savy",
+    "image": "42.gif",
+    "video": "42.mp4"
+  },
+  {
+    "name": "GenkiEgg #43",
+    "type": "Dragon-yellow egg",
+    "personality": "Savy",
+    "image": "43.gif",
+    "video": "43.mp4"
+  },
+  {
+    "name": "GenkiEgg #44",
+    "type": "Dragon-yellow egg",
+    "personality": "Calm",
+    "image": "44.gif",
+    "video": "44.mp4"
+  },
+  {
+    "name": "GenkiEgg #45",
+    "type": "Dragon-yellow egg",
+    "personality": "Agressive",
+    "image": "45.gif",
+    "video": "45.mp4"
+  },
+  {
+    "name": "GenkiEgg #46",
+    "type": "Dragon-yellow egg",
+    "personality": "Calm",
+    "image": "46.gif",
+    "video": "46.mp4"
+  },
+  {
+    "name": "GenkiEgg #47",
+    "type": "Dragon-purple egg",
+    "personality": "Savy",
+    "image": "47.gif",
+    "video": "47.mp4"
+  },
+  {
+    "name": "GenkiEgg #48",
+    "type": "Dragon-yellow egg",
+    "personality": "Savy",
+    "image": "48.gif",
+    "video": "48.mp4"
+  },
+  {
+    "name": "GenkiEgg #49",
+    "type": "Dragon-purple egg",
+    "personality": "Agressive",
+    "image": "49.gif",
+    "video": "49.mp4"
+  },
+  {
+    "name": "GenkiEgg #50",
+    "type": "Dragon-yellow egg",
+    "personality": "Savy",
+    "image": "50.gif",
+    "video": "50.mp4"
+  },
+  {
+    "name": "GenkiEgg #51",
+    "type": "Dragon-purple egg",
+    "personality": "Savy",
+    "image": "51.gif",
+    "video": "51.mp4"
+  },
+  {
+    "name": "GenkiEgg #52",
+    "type": "Dragon-purple egg",
+    "personality": "Excited",
+    "image": "52.gif",
+    "video": "52.mp4"
+  },
+  {
+    "name": "GenkiEgg #53",
+    "type": "Dragon-purple egg",
+    "personality": "Agressive",
+    "image": "53.gif",
+    "video": "53.mp4"
+  },
+  {
+    "name": "GenkiEgg #54",
+    "type": "Dragon-purple egg",
+    "personality": "Agressive",
+    "image": "54.gif",
+    "video": "54.mp4"
+  },
+  {
+    "name": "GenkiEgg #55",
+    "type": "Dragon-yellow egg",
+    "personality": "Curious",
+    "image": "55.gif",
+    "video": "55.mp4"
+  },
+  {
+    "name": "GenkiEgg #56",
+    "type": "Dragon-yellow egg",
+    "personality": "Savy",
+    "image": "56.gif",
+    "video": "56.mp4"
+  },
+  {
+    "name": "GenkiEgg #57",
+    "type": "Dragon-purple egg",
+    "personality": "Excited",
+    "image": "57.gif",
+    "video": "57.mp4"
+  },
+  {
+    "name": "GenkiEgg #58",
+    "type": "Dragon-purple egg",
+    "personality": "Curious",
+    "image": "58.gif",
+    "video": "58.mp4"
+  },
+  {
+    "name": "GenkiEgg #59",
+    "type": "Dragon-purple egg",
+    "personality": "Curious",
+    "image": "59.gif",
+    "video": "59.mp4"
+  },
+  {
+    "name": "GenkiEgg #60",
+    "type": "Dragon-purple egg",
+    "personality": "Agressive",
+    "image": "60.gif",
+    "video": "60.mp4"
+  },
+  {
+    "name": "GenkiEgg #61",
+    "type": "Dragon-purple egg",
+    "personality": "Curious",
+    "image": "61.gif",
+    "video": "61.mp4"
+  },
+  {
+    "name": "GenkiEgg #62",
+    "type": "Dragon-yellow egg",
+    "personality": "Savy",
+    "image": "62.gif",
+    "video": "62.mp4"
+  },
+  {
+    "name": "GenkiEgg #63",
+    "type": "Dragon-yellow egg",
+    "personality": "Curious",
+    "image": "63.gif",
+    "video": "63.mp4"
+  },
+  {
+    "name": "GenkiEgg #64",
+    "type": "Dragon-purple egg",
+    "personality": "Curious",
+    "image": "64.gif",
+    "video": "64.mp4"
+  },
+  {
+    "name": "GenkiEgg #65",
+    "type": "Dragon-purple egg",
+    "personality": "Curious",
+    "image": "65.gif",
+    "video": "65.mp4"
+  },
+  {
+    "name": "GenkiEgg #66",
+    "type": "Dragon-purple egg",
+    "personality": "Savy",
+    "image": "66.gif",
+    "video": "66.mp4"
+  },
+  {
+    "name": "GenkiEgg #67",
+    "type": "Dragon-purple egg",
+    "personality": "Savy",
+    "image": "67.gif",
+    "video": "67.mp4"
+  },
+  {
+    "name": "GenkiEgg #68",
+    "type": "Dragon-yellow egg",
+    "personality": "Curious",
+    "image": "68.gif",
+    "video": "68.mp4"
+  },
+  {
+    "name": "GenkiEgg #69",
+    "type": "Dragon-purple egg",
+    "personality": "Curious",
+    "image": "69.gif",
+    "video": "69.mp4"
+  },
+  {
+    "name": "GenkiEgg #70",
+    "type": "Dragon-purple egg",
+    "personality": "Curious",
+    "image": "70.gif",
+    "video": "70.mp4"
+  },
+  {
+    "name": "GenkiEgg #71",
+    "type": "Dragon-yellow egg",
+    "personality": "Excited",
+    "image": "71.gif",
+    "video": "71.mp4"
+  },
+  {
+    "name": "GenkiEgg #72",
+    "type": "Dragon-purple egg",
+    "personality": "Savy",
+    "image": "72.gif",
+    "video": "72.mp4"
+  },
+  {
+    "name": "GenkiEgg #73",
+    "type": "Dragon-purple egg",
+    "personality": "Curious",
+    "image": "73.gif",
+    "video": "73.mp4"
+  },
+  {
+    "name": "GenkiEgg #74",
+    "type": "Dragon-yellow egg",
+    "personality": "Excited",
+    "image": "74.gif",
+    "video": "74.mp4"
+  },
+  {
+    "name": "GenkiEgg #75",
+    "type": "Dragon-purple egg",
+    "personality": "Curious",
+    "image": "75.gif",
+    "video": "75.mp4"
+  },
+  {
+    "name": "GenkiEgg #76",
+    "type": "Dragon-yellow egg",
+    "personality": "Savy",
+    "image": "76.gif",
+    "video": "76.mp4"
+  },
+  {
+    "name": "GenkiEgg #77",
+    "type": "Dragon-yellow egg",
+    "personality": "Curious",
+    "image": "77.gif",
+    "video": "77.mp4"
+  },
+  {
+    "name": "GenkiEgg #78",
+    "type": "Dragon-yellow egg",
+    "personality": "Agressive",
+    "image": "78.gif",
+    "video": "78.mp4"
+  },
+  {
+    "name": "GenkiEgg #79",
+    "type": "Dragon-yellow egg",
+    "personality": "Curious",
+    "image": "79.gif",
+    "video": "79.mp4"
+  },
+  {
+    "name": "GenkiEgg #80",
+    "type": "Dragon-purple egg",
+    "personality": "Excited",
+    "image": "80.gif",
+    "video": "80.mp4"
+  },
+  {
+    "name": "GenkiEgg #81",
+    "type": "Dragon-purple egg",
+    "personality": "Savy",
+    "image": "81.gif",
+    "video": "81.mp4"
+  },
+  {
+    "name": "GenkiEgg #82",
+    "type": "Dragon-yellow egg",
+    "personality": "Curious",
+    "image": "82.gif",
+    "video": "82.mp4"
+  },
+  {
+    "name": "GenkiEgg #83",
+    "type": "Dragon-yellow egg",
+    "personality": "Savy",
+    "image": "83.gif",
+    "video": "83.mp4"
+  },
+  {
+    "name": "GenkiEgg #84",
+    "type": "Dragon-purple egg",
+    "personality": "Agressive",
+    "image": "84.gif",
+    "video": "84.mp4"
+  },
+  {
+    "name": "GenkiEgg #85",
+    "type": "Dragon-purple egg",
+    "personality": "Curious",
+    "image": "85.gif",
+    "video": "85.mp4"
+  },
+  {
+    "name": "GenkiEgg #86",
+    "type": "Dragon-yellow egg",
+    "personality": "Calm",
+    "image": "86.gif",
+    "video": "86.mp4"
+  },
+  {
+    "name": "GenkiEgg #87",
+    "type": "Dragon-purple egg",
+    "personality": "Savy",
+    "image": "87.gif",
+    "video": "87.mp4"
+  },
+  {
+    "name": "GenkiEgg #88",
+    "type": "Dragon-purple egg",
+    "personality": "Excited",
+    "image": "88.gif",
+    "video": "88.mp4"
+  },
+  {
+    "name": "GenkiEgg #89",
+    "type": "Dragon-purple egg",
+    "personality": "Curious",
+    "image": "89.gif",
+    "video": "89.mp4"
+  },
+  {
+    "name": "GenkiEgg #90",
+    "type": "Dragon-yellow egg",
+    "personality": "Curious",
+    "image": "90.gif",
+    "video": "90.mp4"
+  },
+  {
+    "name": "GenkiEgg #91",
+    "type": "Dragon-yellow egg",
+    "personality": "Savy",
+    "image": "91.gif",
+    "video": "91.mp4"
+  },
+  {
+    "name": "GenkiEgg #92",
+    "type": "Dragon-yellow egg",
+    "personality": "Excited",
+    "image": "92.gif",
+    "video": "92.mp4"
+  },
+  {
+    "name": "GenkiEgg #93",
+    "type": "Dragon-purple egg",
+    "personality": "Calm",
+    "image": "93.gif",
+    "video": "93.mp4"
+  },
+  {
+    "name": "GenkiEgg #94",
+    "type": "Dragon-purple egg",
+    "personality": "Agressive",
+    "image": "94.gif",
+    "video": "94.mp4"
+  },
+  {
+    "name": "GenkiEgg #95",
+    "type": "Dragon-yellow egg",
+    "personality": "Savy",
+    "image": "95.gif",
+    "video": "95.mp4"
+  },
+  {
+    "name": "GenkiEgg #96",
+    "type": "Dragon-purple egg",
+    "personality": "Excited",
+    "image": "96.gif",
+    "video": "96.mp4"
+  },
+  {
+    "name": "GenkiEgg #97",
+    "type": "Dragon-yellow egg",
+    "personality": "Curious",
+    "image": "97.gif",
+    "video": "97.mp4"
+  },
+  {
+    "name": "GenkiEgg #98",
+    "type": "Dragon-purple egg",
+    "personality": "Agressive",
+    "image": "98.gif",
+    "video": "98.mp4"
+  },
+  {
+    "name": "GenkiEgg #99",
+    "type": "Dragon-purple egg",
+    "personality": "Savy",
+    "image": "99.gif",
+    "video": "99.mp4"
+  },
+  {
+    "name": "GenkiEgg #100",
+    "type": "Dragon-yellow egg",
+    "personality": "Curious",
+    "image": "100.gif",
+    "video": "100.mp4"
+  },
+  {
+    "name": "GenkiEgg #101",
+    "type": "Dragon-yellow egg",
+    "personality": "Savy",
+    "image": "101.gif",
+    "video": "101.mp4"
+  },
+  {
+    "name": "GenkiEgg #102",
+    "type": "Dragon-yellow egg",
+    "personality": "Savy",
+    "image": "102.gif",
+    "video": "102.mp4"
+  },
+  {
+    "name": "GenkiEgg #103",
+    "type": "Dragon-yellow egg",
+    "personality": "Excited",
+    "image": "103.gif",
+    "video": "103.mp4"
+  },
+  {
+    "name": "GenkiEgg #104",
+    "type": "Dragon-purple egg",
+    "personality": "Agressive",
+    "image": "104.gif",
+    "video": "104.mp4"
+  },
+  {
+    "name": "GenkiEgg #105",
+    "type": "Dragon-purple egg",
+    "personality": "Calm",
+    "image": "105.gif",
+    "video": "105.mp4"
+  },
+  {
+    "name": "GenkiEgg #106",
+    "type": "Dragon-purple egg",
+    "personality": "Excited",
+    "image": "106.gif",
+    "video": "106.mp4"
+  },
+  {
+    "name": "GenkiEgg #107",
+    "type": "Dragon-yellow egg",
+    "personality": "Calm",
+    "image": "107.gif",
+    "video": "107.mp4"
+  },
+  {
+    "name": "GenkiEgg #108",
+    "type": "Dragon-purple egg",
+    "personality": "Curious",
+    "image": "108.gif",
+    "video": "108.mp4"
+  },
+  {
+    "name": "GenkiEgg #109",
+    "type": "Dragon-purple egg",
+    "personality": "Calm",
+    "image": "109.gif",
+    "video": "109.mp4"
+  },
+  {
+    "name": "GenkiEgg #110",
+    "type": "Dragon-yellow egg",
+    "personality": "Savy",
+    "image": "110.gif",
+    "video": "110.mp4"
+  },
+  {
+    "name": "GenkiEgg #111",
+    "type": "Dragon-yellow egg",
+    "personality": "Curious",
+    "image": "111.gif",
+    "video": "111.mp4"
+  },
+  {
+    "name": "GenkiEgg #112",
+    "type": "Dragon-purple egg",
+    "personality": "Curious",
+    "image": "112.gif",
+    "video": "112.mp4"
+  },
+  {
+    "name": "GenkiEgg #113",
+    "type": "Dragon-purple egg",
+    "personality": "Excited",
+    "image": "113.gif",
+    "video": "113.mp4"
+  },
+  {
+    "name": "GenkiEgg #114",
+    "type": "Dragon-yellow egg",
+    "personality": "Agressive",
+    "image": "114.gif",
+    "video": "114.mp4"
+  },
+  {
+    "name": "GenkiEgg #115",
+    "type": "Dragon-purple egg",
+    "personality": "Curious",
+    "image": "115.gif",
+    "video": "115.mp4"
+  },
+  {
+    "name": "GenkiEgg #116",
+    "type": "Dragon-yellow egg",
+    "personality": "Curious",
+    "image": "116.gif",
+    "video": "116.mp4"
+  },
+  {
+    "name": "GenkiEgg #117",
+    "type": "Dragon-yellow egg",
+    "personality": "Curious",
+    "image": "117.gif",
+    "video": "117.mp4"
+  },
+  {
+    "name": "GenkiEgg #118",
+    "type": "Dragon-purple egg",
+    "personality": "Savy",
+    "image": "118.gif",
+    "video": "118.mp4"
+  },
+  {
+    "name": "GenkiEgg #119",
+    "type": "Dragon-yellow egg",
+    "personality": "Savy",
+    "image": "119.gif",
+    "video": "119.mp4"
+  },
+  {
+    "name": "GenkiEgg #120",
+    "type": "Dragon-yellow egg",
+    "personality": "Agressive",
+    "image": "120.gif",
+    "video": "120.mp4"
+  },
+  {
+    "name": "GenkiEgg #121",
+    "type": "Dragon-purple egg",
+    "personality": "Calm",
+    "image": "121.gif",
+    "video": "121.mp4"
+  },
+  {
+    "name": "GenkiEgg #122",
+    "type": "Dragon-yellow egg",
+    "personality": "Calm",
+    "image": "122.gif",
+    "video": "122.mp4"
+  },
+  {
+    "name": "GenkiEgg #123",
+    "type": "Dragon-yellow egg",
+    "personality": "Curious",
+    "image": "123.gif",
+    "video": "123.mp4"
+  },
+  {
+    "name": "GenkiEgg #124",
+    "type": "Dragon-purple egg",
+    "personality": "Excited",
+    "image": "124.gif",
+    "video": "124.mp4"
+  },
+  {
+    "name": "GenkiEgg #125",
+    "type": "Dragon-purple egg",
+    "personality": "Calm",
+    "image": "125.gif",
+    "video": "125.mp4"
+  },
+  {
+    "name": "GenkiEgg #126",
+    "type": "Dragon-yellow egg",
+    "personality": "Agressive",
+    "image": "126.gif",
+    "video": "126.mp4"
+  },
+  {
+    "name": "GenkiEgg #127",
+    "type": "Dragon-yellow egg",
+    "personality": "Excited",
+    "image": "127.gif",
+    "video": "127.mp4"
+  },
+  {
+    "name": "GenkiEgg #128",
+    "type": "Dragon-yellow egg",
+    "personality": "Agressive",
+    "image": "128.gif",
+    "video": "128.mp4"
+  },
+  {
+    "name": "GenkiEgg #129",
+    "type": "Dragon-purple egg",
+    "personality": "Calm",
+    "image": "129.gif",
+    "video": "129.mp4"
+  },
+  {
+    "name": "GenkiEgg #130",
+    "type": "Dragon-yellow egg",
+    "personality": "Agressive",
+    "image": "130.gif",
+    "video": "130.mp4"
+  },
+  {
+    "name": "GenkiEgg #131",
+    "type": "Dragon-purple egg",
+    "personality": "Agressive",
+    "image": "131.gif",
+    "video": "131.mp4"
+  },
+  {
+    "name": "GenkiEgg #132",
+    "type": "Dragon-yellow egg",
+    "personality": "Curious",
+    "image": "132.gif",
+    "video": "132.mp4"
+  },
+  {
+    "name": "GenkiEgg #133",
+    "type": "Dragon-purple egg",
+    "personality": "Excited",
+    "image": "133.gif",
+    "video": "133.mp4"
+  },
+  {
+    "name": "GenkiEgg #134",
+    "type": "Dragon-purple egg",
+    "personality": "Excited",
+    "image": "134.gif",
+    "video": "134.mp4"
+  },
+  {
+    "name": "GenkiEgg #135",
+    "type": "Dragon-purple egg",
+    "personality": "Agressive",
+    "image": "135.gif",
+    "video": "135.mp4"
+  },
+  {
+    "name": "GenkiEgg #136",
+    "type": "Dragon-yellow egg",
+    "personality": "Agressive",
+    "image": "136.gif",
+    "video": "136.mp4"
+  },
+  {
+    "name": "GenkiEgg #137",
+    "type": "Dragon-yellow egg",
+    "personality": "Agressive",
+    "image": "137.gif",
+    "video": "137.mp4"
+  },
+  {
+    "name": "GenkiEgg #138",
+    "type": "Dragon-purple egg",
+    "personality": "Calm",
+    "image": "138.gif",
+    "video": "138.mp4"
+  },
+  {
+    "name": "GenkiEgg #139",
+    "type": "Dragon-yellow egg",
+    "personality": "Agressive",
+    "image": "139.gif",
+    "video": "139.mp4"
+  },
+  {
+    "name": "GenkiEgg #140",
+    "type": "Dragon-purple egg",
+    "personality": "Excited",
+    "image": "140.gif",
+    "video": "140.mp4"
+  },
+  {
+    "name": "GenkiEgg #141",
+    "type": "Dragon-yellow egg",
+    "personality": "Savy",
+    "image": "141.gif",
+    "video": "141.mp4"
+  },
+  {
+    "name": "GenkiEgg #142",
+    "type": "Dragon-purple egg",
+    "personality": "Agressive",
+    "image": "142.gif",
+    "video": "142.mp4"
+  },
+  {
+    "name": "GenkiEgg #143",
+    "type": "Dragon-yellow egg",
+    "personality": "Curious",
+    "image": "143.gif",
+    "video": "143.mp4"
+  },
+  {
+    "name": "GenkiEgg #144",
+    "type": "Dragon-purple egg",
+    "personality": "Excited",
+    "image": "144.gif",
+    "video": "144.mp4"
+  },
+  {
+    "name": "GenkiEgg #145",
+    "type": "Dragon-yellow egg",
+    "personality": "Excited",
+    "image": "145.gif",
+    "video": "145.mp4"
+  },
+  {
+    "name": "GenkiEgg #146",
+    "type": "Dragon-purple egg",
+    "personality": "Calm",
+    "image": "146.gif",
+    "video": "146.mp4"
+  },
+  {
+    "name": "GenkiEgg #147",
+    "type": "Dragon-yellow egg",
+    "personality": "Curious",
+    "image": "147.gif",
+    "video": "147.mp4"
+  },
+  {
+    "name": "GenkiEgg #148",
+    "type": "Dragon-purple egg",
+    "personality": "Savy",
+    "image": "148.gif",
+    "video": "148.mp4"
+  },
+  {
+    "name": "GenkiEgg #149",
+    "type": "Dragon-purple egg",
+    "personality": "Savy",
+    "image": "149.gif",
+    "video": "149.mp4"
+  },
+  {
+    "name": "GenkiEgg #150",
+    "type": "Dragon-purple egg",
+    "personality": "Agressive",
+    "image": "150.gif",
+    "video": "150.mp4"
+  },
+  {
+    "name": "GenkiEgg #151",
+    "type": "Dragon-purple egg",
+    "personality": "Excited",
+    "image": "151.gif",
+    "video": "151.mp4"
+  },
+  {
+    "name": "GenkiEgg #152",
+    "type": "Dragon-purple egg",
+    "personality": "Calm",
+    "image": "152.gif",
+    "video": "152.mp4"
+  },
+  {
+    "name": "GenkiEgg #153",
+    "type": "Dragon-purple egg",
+    "personality": "Excited",
+    "image": "153.gif",
+    "video": "153.mp4"
+  },
+  {
+    "name": "GenkiEgg #154",
+    "type": "Dragon-purple egg",
+    "personality": "Calm",
+    "image": "154.gif",
+    "video": "154.mp4"
+  },
+  {
+    "name": "GenkiEgg #155",
+    "type": "Dragon-yellow egg",
+    "personality": "Agressive",
+    "image": "155.gif",
+    "video": "155.mp4"
+  },
+  {
+    "name": "GenkiEgg #156",
+    "type": "Dragon-purple egg",
+    "personality": "Excited",
+    "image": "156.gif",
+    "video": "156.mp4"
+  },
+  {
+    "name": "GenkiEgg #157",
+    "type": "Dragon-purple egg",
+    "personality": "Agressive",
+    "image": "157.gif",
+    "video": "157.mp4"
+  },
+  {
+    "name": "GenkiEgg #158",
+    "type": "Dragon-yellow egg",
+    "personality": "Excited",
+    "image": "158.gif",
+    "video": "158.mp4"
+  },
+  {
+    "name": "GenkiEgg #159",
+    "type": "Dragon-yellow egg",
+    "personality": "Agressive",
+    "image": "159.gif",
+    "video": "159.mp4"
+  },
+  {
+    "name": "GenkiEgg #160",
+    "type": "Dragon-purple egg",
+    "personality": "Excited",
+    "image": "160.gif",
+    "video": "160.mp4"
+  },
+  {
+    "name": "GenkiEgg #161",
+    "type": "Dragon-purple egg",
+    "personality": "Savy",
+    "image": "161.gif",
+    "video": "161.mp4"
+  },
+  {
+    "name": "GenkiEgg #162",
+    "type": "Dragon-yellow egg",
+    "personality": "Excited",
+    "image": "162.gif",
+    "video": "162.mp4"
+  },
+  {
+    "name": "GenkiEgg #163",
+    "type": "Dragon-yellow egg",
+    "personality": "Curious",
+    "image": "163.gif",
+    "video": "163.mp4"
+  },
+  {
+    "name": "GenkiEgg #164",
+    "type": "Dragon-purple egg",
+    "personality": "Agressive",
+    "image": "164.gif",
+    "video": "164.mp4"
+  },
+  {
+    "name": "GenkiEgg #165",
+    "type": "Dragon-yellow egg",
+    "personality": "Curious",
+    "image": "165.gif",
+    "video": "165.mp4"
+  },
+  {
+    "name": "GenkiEgg #166",
+    "type": "Dragon-purple egg",
+    "personality": "Agressive",
+    "image": "166.gif",
+    "video": "166.mp4"
+  },
+  {
+    "name": "GenkiEgg #167",
+    "type": "Dragon-purple egg",
+    "personality": "Excited",
+    "image": "167.gif",
+    "video": "167.mp4"
+  },
+  {
+    "name": "GenkiEgg #168",
+    "type": "Dragon-purple egg",
+    "personality": "Excited",
+    "image": "168.gif",
+    "video": "168.mp4"
+  },
+  {
+    "name": "GenkiEgg #169",
+    "type": "Dragon-yellow egg",
+    "personality": "Agressive",
+    "image": "169.gif",
+    "video": "169.mp4"
+  },
+  {
+    "name": "GenkiEgg #170",
+    "type": "Dragon-purple egg",
+    "personality": "Calm",
+    "image": "170.gif",
+    "video": "170.mp4"
+  },
+  {
+    "name": "GenkiEgg #171",
+    "type": "Dragon-purple egg",
+    "personality": "Calm",
+    "image": "171.gif",
+    "video": "171.mp4"
+  },
+  {
+    "name": "GenkiEgg #172",
+    "type": "Dragon-yellow egg",
+    "personality": "Curious",
+    "image": "172.gif",
+    "video": "172.mp4"
+  },
+  {
+    "name": "GenkiEgg #173",
+    "type": "Dragon-purple egg",
+    "personality": "Agressive",
+    "image": "173.gif",
+    "video": "173.mp4"
+  },
+  {
+    "name": "GenkiEgg #174",
+    "type": "Dragon-purple egg",
+    "personality": "Curious",
+    "image": "174.gif",
+    "video": "174.mp4"
+  },
+  {
+    "name": "GenkiEgg #175",
+    "type": "Dragon-purple egg",
+    "personality": "Curious",
+    "image": "175.gif",
+    "video": "175.mp4"
+  },
+  {
+    "name": "GenkiEgg #176",
+    "type": "Dragon-purple egg",
+    "personality": "Agressive",
+    "image": "176.gif",
+    "video": "176.mp4"
+  },
+  {
+    "name": "GenkiEgg #177",
+    "type": "Dragon-purple egg",
+    "personality": "Calm",
+    "image": "177.gif",
+    "video": "177.mp4"
+  },
+  {
+    "name": "GenkiEgg #178",
+    "type": "Dragon-purple egg",
+    "personality": "Savy",
+    "image": "178.gif",
+    "video": "178.mp4"
+  },
+  {
+    "name": "GenkiEgg #179",
+    "type": "Dragon-purple egg",
+    "personality": "Calm",
+    "image": "179.gif",
+    "video": "179.mp4"
+  },
+  {
+    "name": "GenkiEgg #180",
+    "type": "Dragon-purple egg",
+    "personality": "Agressive",
+    "image": "180.gif",
+    "video": "180.mp4"
+  },
+  {
+    "name": "GenkiEgg #181",
+    "type": "Dragon-yellow egg",
+    "personality": "Excited",
+    "image": "181.gif",
+    "video": "181.mp4"
+  },
+  {
+    "name": "GenkiEgg #182",
+    "type": "Dragon-purple egg",
+    "personality": "Excited",
+    "image": "182.gif",
+    "video": "182.mp4"
+  },
+  {
+    "name": "GenkiEgg #183",
+    "type": "Dragon-yellow egg",
+    "personality": "Calm",
+    "image": "183.gif",
+    "video": "183.mp4"
+  },
+  {
+    "name": "GenkiEgg #184",
+    "type": "Dragon-purple egg",
+    "personality": "Excited",
+    "image": "184.gif",
+    "video": "184.mp4"
+  },
+  {
+    "name": "GenkiEgg #185",
+    "type": "Dragon-yellow egg",
+    "personality": "Savy",
+    "image": "185.gif",
+    "video": "185.mp4"
+  },
+  {
+    "name": "GenkiEgg #186",
+    "type": "Dragon-purple egg",
+    "personality": "Savy",
+    "image": "186.gif",
+    "video": "186.mp4"
+  },
+  {
+    "name": "GenkiEgg #187",
+    "type": "Dragon-yellow egg",
+    "personality": "Calm",
+    "image": "187.gif",
+    "video": "187.mp4"
+  },
+  {
+    "name": "GenkiEgg #188",
+    "type": "Dragon-purple egg",
+    "personality": "Calm",
+    "image": "188.gif",
+    "video": "188.mp4"
+  },
+  {
+    "name": "GenkiEgg #189",
+    "type": "Dragon-yellow egg",
+    "personality": "Excited",
+    "image": "189.gif",
+    "video": "189.mp4"
+  },
+  {
+    "name": "GenkiEgg #190",
+    "type": "Dragon-purple egg",
+    "personality": "Savy",
+    "image": "190.gif",
+    "video": "190.mp4"
+  },
+  {
+    "name": "GenkiEgg #191",
+    "type": "Dragon-yellow egg",
+    "personality": "Curious",
+    "image": "191.gif",
+    "video": "191.mp4"
+  },
+  {
+    "name": "GenkiEgg #192",
+    "type": "Dragon-purple egg",
+    "personality": "Curious",
+    "image": "192.gif",
+    "video": "192.mp4"
+  },
+  {
+    "name": "GenkiEgg #193",
+    "type": "Dragon-purple egg",
+    "personality": "Excited",
+    "image": "193.gif",
+    "video": "193.mp4"
+  },
+  {
+    "name": "GenkiEgg #194",
+    "type": "Dragon-yellow egg",
+    "personality": "Calm",
+    "image": "194.gif",
+    "video": "194.mp4"
+  },
+  {
+    "name": "GenkiEgg #195",
+    "type": "Dragon-purple egg",
+    "personality": "Agressive",
+    "image": "195.gif",
+    "video": "195.mp4"
+  },
+  {
+    "name": "GenkiEgg #196",
+    "type": "Dragon-yellow egg",
+    "personality": "Calm",
+    "image": "196.gif",
+    "video": "196.mp4"
+  },
+  {
+    "name": "GenkiEgg #197",
+    "type": "Dragon-purple egg",
+    "personality": "Savy",
+    "image": "197.gif",
+    "video": "197.mp4"
+  },
+  {
+    "name": "GenkiEgg #198",
+    "type": "Dragon-purple egg",
+    "personality": "Excited",
+    "image": "198.gif",
+    "video": "198.mp4"
+  },
+  {
+    "name": "GenkiEgg #199",
+    "type": "Dragon-purple egg",
+    "personality": "Curious",
+    "image": "199.gif",
+    "video": "199.mp4"
+  },
+  {
+    "name": "GenkiEgg #200",
+    "type": "Dragon-purple egg",
+    "personality": "Calm",
+    "image": "200.gif",
+    "video": "200.mp4"
+  },
+  {
+    "name": "GenkiEgg #201",
+    "type": "Dragon-purple egg",
+    "personality": "Calm",
+    "image": "201.gif",
+    "video": "201.mp4"
+  },
+  {
+    "name": "GenkiEgg #202",
+    "type": "Dragon-purple egg",
+    "personality": "Curious",
+    "image": "202.gif",
+    "video": "202.mp4"
+  },
+  {
+    "name": "GenkiEgg #203",
+    "type": "Dragon-yellow egg",
+    "personality": "Calm",
+    "image": "203.gif",
+    "video": "203.mp4"
+  },
+  {
+    "name": "GenkiEgg #204",
+    "type": "Dragon-yellow egg",
+    "personality": "Curious",
+    "image": "204.gif",
+    "video": "204.mp4"
+  },
+  {
+    "name": "GenkiEgg #205",
+    "type": "Dragon-yellow egg",
+    "personality": "Excited",
+    "image": "205.gif",
+    "video": "205.mp4"
+  },
+  {
+    "name": "GenkiEgg #206",
+    "type": "Dragon-yellow egg",
+    "personality": "Savy",
+    "image": "206.gif",
+    "video": "206.mp4"
+  },
+  {
+    "name": "GenkiEgg #207",
+    "type": "Dragon-purple egg",
+    "personality": "Curious",
+    "image": "207.gif",
+    "video": "207.mp4"
+  },
+  {
+    "name": "GenkiEgg #208",
+    "type": "Dragon-purple egg",
+    "personality": "Calm",
+    "image": "208.gif",
+    "video": "208.mp4"
+  },
+  {
+    "name": "GenkiEgg #209",
+    "type": "Dragon-purple egg",
+    "personality": "Calm",
+    "image": "209.gif",
+    "video": "209.mp4"
+  },
+  {
+    "name": "GenkiEgg #210",
+    "type": "Dragon-purple egg",
+    "personality": "Agressive",
+    "image": "210.gif",
+    "video": "210.mp4"
+  },
+  {
+    "name": "GenkiEgg #211",
+    "type": "Dragon-yellow egg",
+    "personality": "Calm",
+    "image": "211.gif",
+    "video": "211.mp4"
+  },
+  {
+    "name": "GenkiEgg #212",
+    "type": "Dragon-purple egg",
+    "personality": "Curious",
+    "image": "212.gif",
+    "video": "212.mp4"
+  },
+  {
+    "name": "GenkiEgg #213",
+    "type": "Dragon-yellow egg",
+    "personality": "Agressive",
+    "image": "213.gif",
+    "video": "213.mp4"
+  },
+  {
+    "name": "GenkiEgg #214",
+    "type": "Dragon-purple egg",
+    "personality": "Excited",
+    "image": "214.gif",
+    "video": "214.mp4"
+  },
+  {
+    "name": "GenkiEgg #215",
+    "type": "Dragon-yellow egg",
+    "personality": "Calm",
+    "image": "215.gif",
+    "video": "215.mp4"
+  },
+  {
+    "name": "GenkiEgg #216",
+    "type": "Dragon-yellow egg",
+    "personality": "Calm",
+    "image": "216.gif",
+    "video": "216.mp4"
+  },
+  {
+    "name": "GenkiEgg #217",
+    "type": "Dragon-purple egg",
+    "personality": "Savy",
+    "image": "217.gif",
+    "video": "217.mp4"
+  },
+  {
+    "name": "GenkiEgg #218",
+    "type": "Dragon-purple egg",
+    "personality": "Agressive",
+    "image": "218.gif",
+    "video": "218.mp4"
+  },
+  {
+    "name": "GenkiEgg #219",
+    "type": "Dragon-purple egg",
+    "personality": "Curious",
+    "image": "219.gif",
+    "video": "219.mp4"
+  },
+  {
+    "name": "GenkiEgg #220",
+    "type": "Dragon-purple egg",
+    "personality": "Excited",
+    "image": "220.gif",
+    "video": "220.mp4"
+  },
+  {
+    "name": "GenkiEgg #221",
+    "type": "Dragon-purple egg",
+    "personality": "Calm",
+    "image": "221.gif",
+    "video": "221.mp4"
+  },
+  {
+    "name": "GenkiEgg #222",
+    "type": "Dragon-yellow egg",
+    "personality": "Agressive",
+    "image": "222.gif",
+    "video": "222.mp4"
+  },
+  {
+    "name": "GenkiEgg #223",
+    "type": "Dragon-yellow egg",
+    "personality": "Agressive",
+    "image": "223.gif",
+    "video": "223.mp4"
+  },
+  {
+    "name": "GenkiEgg #224",
+    "type": "Dragon-purple egg",
+    "personality": "Savy",
+    "image": "224.gif",
+    "video": "224.mp4"
+  },
+  {
+    "name": "GenkiEgg #225",
+    "type": "Dragon-purple egg",
+    "personality": "Calm",
+    "image": "225.gif",
+    "video": "225.mp4"
+  },
+  {
+    "name": "GenkiEgg #226",
+    "type": "Dragon-yellow egg",
+    "personality": "Curious",
+    "image": "226.gif",
+    "video": "226.mp4"
+  },
+  {
+    "name": "GenkiEgg #227",
+    "type": "Dragon-purple egg",
+    "personality": "Excited",
+    "image": "227.gif",
+    "video": "227.mp4"
+  },
+  {
+    "name": "GenkiEgg #228",
+    "type": "Dragon-purple egg",
+    "personality": "Curious",
+    "image": "228.gif",
+    "video": "228.mp4"
+  },
+  {
+    "name": "GenkiEgg #229",
+    "type": "Dragon-yellow egg",
+    "personality": "Calm",
+    "image": "229.gif",
+    "video": "229.mp4"
+  },
+  {
+    "name": "GenkiEgg #230",
+    "type": "Dragon-purple egg",
+    "personality": "Calm",
+    "image": "230.gif",
+    "video": "230.mp4"
+  },
+  {
+    "name": "GenkiEgg #231",
+    "type": "Dragon-yellow egg",
+    "personality": "Curious",
+    "image": "231.gif",
+    "video": "231.mp4"
+  },
+  {
+    "name": "GenkiEgg #232",
+    "type": "Dragon-purple egg",
+    "personality": "Curious",
+    "image": "232.gif",
+    "video": "232.mp4"
+  },
+  {
+    "name": "GenkiEgg #233",
+    "type": "Dragon-purple egg",
+    "personality": "Curious",
+    "image": "233.gif",
+    "video": "233.mp4"
+  },
+  {
+    "name": "GenkiEgg #234",
+    "type": "Dragon-purple egg",
+    "personality": "Agressive",
+    "image": "234.gif",
+    "video": "234.mp4"
+  },
+  {
+    "name": "GenkiEgg #235",
+    "type": "Dragon-yellow egg",
+    "personality": "Savy",
+    "image": "235.gif",
+    "video": "235.mp4"
+  },
+  {
+    "name": "GenkiEgg #236",
+    "type": "Dragon-yellow egg",
+    "personality": "Curious",
+    "image": "236.gif",
+    "video": "236.mp4"
+  },
+  {
+    "name": "GenkiEgg #237",
+    "type": "Dragon-yellow egg",
+    "personality": "Agressive",
+    "image": "237.gif",
+    "video": "237.mp4"
+  },
+  {
+    "name": "GenkiEgg #238",
+    "type": "Dragon-purple egg",
+    "personality": "Curious",
+    "image": "238.gif",
+    "video": "238.mp4"
+  },
+  {
+    "name": "GenkiEgg #239",
+    "type": "Dragon-yellow egg",
+    "personality": "Agressive",
+    "image": "239.gif",
+    "video": "239.mp4"
+  },
+  {
+    "name": "GenkiEgg #240",
+    "type": "Dragon-purple egg",
+    "personality": "Agressive",
+    "image": "240.gif",
+    "video": "240.mp4"
+  },
+  {
+    "name": "GenkiEgg #241",
+    "type": "Dragon-yellow egg",
+    "personality": "Excited",
+    "image": "241.gif",
+    "video": "241.mp4"
+  },
+  {
+    "name": "GenkiEgg #242",
+    "type": "Dragon-purple egg",
+    "personality": "Curious",
+    "image": "242.gif",
+    "video": "242.mp4"
+  },
+  {
+    "name": "GenkiEgg #243",
+    "type": "Dragon-purple egg",
+    "personality": "Excited",
+    "image": "243.gif",
+    "video": "243.mp4"
+  },
+  {
+    "name": "GenkiEgg #244",
+    "type": "Dragon-purple egg",
+    "personality": "Curious",
+    "image": "244.gif",
+    "video": "244.mp4"
+  },
+  {
+    "name": "GenkiEgg #245",
+    "type": "Dragon-yellow egg",
+    "personality": "Excited",
+    "image": "245.gif",
+    "video": "245.mp4"
+  },
+  {
+    "name": "GenkiEgg #246",
+    "type": "Dragon-purple egg",
+    "personality": "Agressive",
+    "image": "246.gif",
+    "video": "246.mp4"
+  },
+  {
+    "name": "GenkiEgg #247",
+    "type": "Dragon-purple egg",
+    "personality": "Excited",
+    "image": "247.gif",
+    "video": "247.mp4"
+  },
+  {
+    "name": "GenkiEgg #248",
+    "type": "Dragon-yellow egg",
+    "personality": "Calm",
+    "image": "248.gif",
+    "video": "248.mp4"
+  },
+  {
+    "name": "GenkiEgg #249",
+    "type": "Dragon-purple egg",
+    "personality": "Calm",
+    "image": "249.gif",
+    "video": "249.mp4"
+  },
+  {
+    "name": "GenkiEgg #250",
+    "type": "Dragon-yellow egg",
+    "personality": "Agressive",
+    "image": "250.gif",
+    "video": "250.mp4"
+  },
+  {
+    "name": "GenkiEgg #251",
+    "type": "Dragon-yellow egg",
+    "personality": "Calm",
+    "image": "251.gif",
+    "video": "251.mp4"
+  },
+  {
+    "name": "GenkiEgg #252",
+    "type": "Dragon-purple egg",
+    "personality": "Savy",
+    "image": "252.gif",
+    "video": "252.mp4"
+  },
+  {
+    "name": "GenkiEgg #253",
+    "type": "Dragon-yellow egg",
+    "personality": "Calm",
+    "image": "253.gif",
+    "video": "253.mp4"
+  },
+  {
+    "name": "GenkiEgg #254",
+    "type": "Dragon-purple egg",
+    "personality": "Savy",
+    "image": "254.gif",
+    "video": "254.mp4"
+  },
+  {
+    "name": "GenkiEgg #255",
+    "type": "Dragon-purple egg",
+    "personality": "Calm",
+    "image": "255.gif",
+    "video": "255.mp4"
+  },
+  {
+    "name": "GenkiEgg #256",
+    "type": "Dragon-yellow egg",
+    "personality": "Calm",
+    "image": "256.gif",
+    "video": "256.mp4"
+  },
+  {
+    "name": "GenkiEgg #257",
+    "type": "Dragon-purple egg",
+    "personality": "Excited",
+    "image": "257.gif",
+    "video": "257.mp4"
+  },
+  {
+    "name": "GenkiEgg #258",
+    "type": "Dragon-yellow egg",
+    "personality": "Curious",
+    "image": "258.gif",
+    "video": "258.mp4"
+  },
+  {
+    "name": "GenkiEgg #259",
+    "type": "Dragon-yellow egg",
+    "personality": "Curious",
+    "image": "259.gif",
+    "video": "259.mp4"
+  },
+  {
+    "name": "GenkiEgg #260",
+    "type": "Dragon-yellow egg",
+    "personality": "Curious",
+    "image": "260.gif",
+    "video": "260.mp4"
+  },
+  {
+    "name": "GenkiEgg #261",
+    "type": "Dragon-purple egg",
+    "personality": "Calm",
+    "image": "261.gif",
+    "video": "261.mp4"
+  },
+  {
+    "name": "GenkiEgg #262",
+    "type": "Dragon-yellow egg",
+    "personality": "Savy",
+    "image": "262.gif",
+    "video": "262.mp4"
+  },
+  {
+    "name": "GenkiEgg #263",
+    "type": "Dragon-yellow egg",
+    "personality": "Excited",
+    "image": "263.gif",
+    "video": "263.mp4"
+  },
+  {
+    "name": "GenkiEgg #264",
+    "type": "Dragon-purple egg",
+    "personality": "Agressive",
+    "image": "264.gif",
+    "video": "264.mp4"
+  },
+  {
+    "name": "GenkiEgg #265",
+    "type": "Dragon-purple egg",
+    "personality": "Excited",
+    "image": "265.gif",
+    "video": "265.mp4"
+  },
+  {
+    "name": "GenkiEgg #266",
+    "type": "Dragon-purple egg",
+    "personality": "Calm",
+    "image": "266.gif",
+    "video": "266.mp4"
+  },
+  {
+    "name": "GenkiEgg #267",
+    "type": "Dragon-purple egg",
+    "personality": "Curious",
+    "image": "267.gif",
+    "video": "267.mp4"
+  },
+  {
+    "name": "GenkiEgg #268",
+    "type": "Dragon-yellow egg",
+    "personality": "Curious",
+    "image": "268.gif",
+    "video": "268.mp4"
+  },
+  {
+    "name": "GenkiEgg #269",
+    "type": "Dragon-yellow egg",
+    "personality": "Excited",
+    "image": "269.gif",
+    "video": "269.mp4"
+  },
+  {
+    "name": "GenkiEgg #270",
+    "type": "Dragon-yellow egg",
+    "personality": "Excited",
+    "image": "270.gif",
+    "video": "270.mp4"
+  },
+  {
+    "name": "GenkiEgg #271",
+    "type": "Dragon-yellow egg",
+    "personality": "Curious",
+    "image": "271.gif",
+    "video": "271.mp4"
+  },
+  {
+    "name": "GenkiEgg #272",
+    "type": "Dragon-purple egg",
+    "personality": "Calm",
+    "image": "272.gif",
+    "video": "272.mp4"
+  },
+  {
+    "name": "GenkiEgg #273",
+    "type": "Dragon-purple egg",
+    "personality": "Savy",
+    "image": "273.gif",
+    "video": "273.mp4"
+  },
+  {
+    "name": "GenkiEgg #274",
+    "type": "Dragon-purple egg",
+    "personality": "Calm",
+    "image": "274.gif",
+    "video": "274.mp4"
+  },
+  {
+    "name": "GenkiEgg #275",
+    "type": "Dragon-purple egg",
+    "personality": "Calm",
+    "image": "275.gif",
+    "video": "275.mp4"
+  },
+  {
+    "name": "GenkiEgg #276",
+    "type": "Dragon-yellow egg",
+    "personality": "Agressive",
+    "image": "276.gif",
+    "video": "276.mp4"
+  },
+  {
+    "name": "GenkiEgg #277",
+    "type": "Dragon-purple egg",
+    "personality": "Curious",
+    "image": "277.gif",
+    "video": "277.mp4"
+  },
+  {
+    "name": "GenkiEgg #278",
+    "type": "Dragon-yellow egg",
+    "personality": "Excited",
+    "image": "278.gif",
+    "video": "278.mp4"
+  },
+  {
+    "name": "GenkiEgg #279",
+    "type": "Dragon-yellow egg",
+    "personality": "Excited",
+    "image": "279.gif",
+    "video": "279.mp4"
+  },
+  {
+    "name": "GenkiEgg #280",
+    "type": "Dragon-purple egg",
+    "personality": "Calm",
+    "image": "280.gif",
+    "video": "280.mp4"
+  },
+  {
+    "name": "GenkiEgg #281",
+    "type": "Dragon-yellow egg",
+    "personality": "Savy",
+    "image": "281.gif",
+    "video": "281.mp4"
+  },
+  {
+    "name": "GenkiEgg #282",
+    "type": "Dragon-purple egg",
+    "personality": "Agressive",
+    "image": "282.gif",
+    "video": "282.mp4"
+  },
+  {
+    "name": "GenkiEgg #283",
+    "type": "Dragon-purple egg",
+    "personality": "Savy",
+    "image": "283.gif",
+    "video": "283.mp4"
+  },
+  {
+    "name": "GenkiEgg #284",
+    "type": "Dragon-purple egg",
+    "personality": "Curious",
+    "image": "284.gif",
+    "video": "284.mp4"
+  },
+  {
+    "name": "GenkiEgg #285",
+    "type": "Dragon-yellow egg",
+    "personality": "Agressive",
+    "image": "285.gif",
+    "video": "285.mp4"
+  },
+  {
+    "name": "GenkiEgg #286",
+    "type": "Dragon-purple egg",
+    "personality": "Calm",
+    "image": "286.gif",
+    "video": "286.mp4"
+  },
+  {
+    "name": "GenkiEgg #287",
+    "type": "Dragon-yellow egg",
+    "personality": "Calm",
+    "image": "287.gif",
+    "video": "287.mp4"
+  },
+  {
+    "name": "GenkiEgg #288",
+    "type": "Dragon-yellow egg",
+    "personality": "Calm",
+    "image": "288.gif",
+    "video": "288.mp4"
+  },
+  {
+    "name": "GenkiEgg #289",
+    "type": "Dragon-purple egg",
+    "personality": "Excited",
+    "image": "289.gif",
+    "video": "289.mp4"
+  },
+  {
+    "name": "GenkiEgg #290",
+    "type": "Dragon-yellow egg",
+    "personality": "Agressive",
+    "image": "290.gif",
+    "video": "290.mp4"
+  },
+  {
+    "name": "GenkiEgg #291",
+    "type": "Dragon-yellow egg",
+    "personality": "Excited",
+    "image": "291.gif",
+    "video": "291.mp4"
+  },
+  {
+    "name": "GenkiEgg #292",
+    "type": "Dragon-yellow egg",
+    "personality": "Excited",
+    "image": "292.gif",
+    "video": "292.mp4"
+  },
+  {
+    "name": "GenkiEgg #293",
+    "type": "Dragon-purple egg",
+    "personality": "Calm",
+    "image": "293.gif",
+    "video": "293.mp4"
+  },
+  {
+    "name": "GenkiEgg #294",
+    "type": "Dragon-yellow egg",
+    "personality": "Savy",
+    "image": "294.gif",
+    "video": "294.mp4"
+  },
+  {
+    "name": "GenkiEgg #295",
+    "type": "Dragon-purple egg",
+    "personality": "Calm",
+    "image": "295.gif",
+    "video": "295.mp4"
+  },
+  {
+    "name": "GenkiEgg #296",
+    "type": "Dragon-yellow egg",
+    "personality": "Excited",
+    "image": "296.gif",
+    "video": "296.mp4"
+  },
+  {
+    "name": "GenkiEgg #297",
+    "type": "Dragon-purple egg",
+    "personality": "Curious",
+    "image": "297.gif",
+    "video": "297.mp4"
+  },
+  {
+    "name": "GenkiEgg #298",
+    "type": "Dragon-purple egg",
+    "personality": "Calm",
+    "image": "298.gif",
+    "video": "298.mp4"
+  },
+  {
+    "name": "GenkiEgg #299",
+    "type": "Dragon-yellow egg",
+    "personality": "Calm",
+    "image": "299.gif",
+    "video": "299.mp4"
+  },
+  {
+    "name": "GenkiEgg #300",
+    "type": "Dragon-purple egg",
+    "personality": "Agressive",
+    "image": "300.gif",
+    "video": "300.mp4"
   }
-  
+]
